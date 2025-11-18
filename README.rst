@@ -7,22 +7,22 @@ Developing Custom HW for Paddle force, speed and position - Prototypes
 HW1:  
 Mounts on paddle shaft  
 Sensor list and purpose
-   1. Strain sensor to measure force
-   2. GPS sensors nears paddles to measure height
+1. Strain sensor to measure force
+2. GPS sensors nears paddles to measure height
 
 HW2:  
 Mounts on back of glove  
 Sensor list and purpose  
-   1. Pressure sensors on fingers to measure force
-   2. GPS to measure height
+1. Pressure sensors on fingers to measure force
+2. GPS to measure height
 
 HW3:  
-Water speed - current  
-Hull Speed   
+1. Water speed - current  
+2. Hull Speed   
 
 HW4:  
-Fitness:  
-Heart Rate monitor  
-Breathing Rate  
+Fitness  
+1. Heart Rate monitor  
+2. Breathing Rate  
 
 
