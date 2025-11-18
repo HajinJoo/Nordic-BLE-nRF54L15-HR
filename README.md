@@ -10,7 +10,7 @@ Sensor list and purpose
 1. Strain sensor to measure force
 2. GPS sensors nears paddles to measure height
 
-HW2:  
+HW2:<br/>  
 Mounts on back of glove  
 Sensor list and purpose  
 1. Pressure sensors on fingers to measure force
